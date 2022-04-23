@@ -1,27 +1,20 @@
 <!DOCTYPE html>
 <html>
 	<head>
-
 		<!-- Basic -->
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
-
 		<title>NoNitsLiceRemovalServices</title>	
-
 		<meta name="keywords" content="NoNitsLiceRemovalServices" />
 		<meta name="description" content="NoNits">
 		<meta name="dveloper" content="CapJimLLC.com">
-
 		<!-- Favicon -->
 		<link rel="shortcut icon" href="img/penny.png" type="" />
 		<link rel="apple-touch-icon" href="img/penny.png">
-
 		<!-- Mobile Metas -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=yes">
-
 		<!-- Web Fonts  -->
 		<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap" rel="stylesheet" type="text/css">
-
 		<!-- Vendor CSS -->
 		<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
 		<link rel="stylesheet" href="vendor/fontawesome-free/css/all.min.css">
@@ -30,13 +23,11 @@
 		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
 		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
 		<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
-
 		<!-- Theme CSS -->
 		<link rel="stylesheet" href="css/theme.css">
 		<link rel="stylesheet" href="css/theme-elements.css">
 		<link rel="stylesheet" href="css/theme-blog.css">
 		<link rel="stylesheet" href="css/theme-shop.css">
-
 		<!-- Current Page CSS -->
 		<link rel="stylesheet" href="vendor/rs-plugin/css/settings.css">
 		<link rel="stylesheet" href="vendor/rs-plugin/css/layers.css">
@@ -44,21 +35,15 @@
 		
 		<!-- Demo CSS -->
 		<link rel="stylesheet" href="css/demos/demo-medical-2.css">
-
 		<!-- Skin CSS -->
 		<link rel="stylesheet" href="css/skins/skin-medical-2.css"> 
-
 		<!-- Theme Custom CSS -->
 		<link rel="stylesheet" href="css/custom.css">
-
 		<!-- Head Libs -->
 		<script src="vendor/modernizr/modernizr.min.js"></script>
-
 	</head>
 	<body>
-
 		<div class="body">
-
 			<header id="header" class="header-effect-shrink" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyChangeLogo': true, 'stickyStartAt': 120, 'stickyHeaderContainerHeight': 70}">
 				<div class="header-body border-top-0">
 					<div class="header-top header-top-default header-top-borders border-bottom-0 bg-color-light">
@@ -104,9 +89,9 @@
 						<div class="header-row">
 							<div class="header-column header-column-logo">
 								<div class="header-row">
-									<div class="header-logo text-7 text-color-dark">
+									<div class="header-logo text-6 font-weight-bold text-color-dark">
 										
-							No Nits Lice Removal Services © 
+							NoNitsLiceRemoval<br>Services© 
 										
 									</div>
 								</div>
@@ -145,11 +130,9 @@
 					</div>
 				</div>
 			</header>
-
 			<br>
 			<br>
 			<br>
-
 			<div role="main" class="main">					
 				<section class="about-me mb-5">
 					<div class="container">
@@ -164,7 +147,6 @@
 						</div>
 					</div>
 				</section>
-
 				<section class="more-about" data-plugin-lazyload data-plugin-options="{'threshold': 300, 'effect':'fadeIn'}" data-original="img/map.png">
 					<div class="container">
 						<div class="row">
@@ -199,7 +181,6 @@
 						</div>
 					</div>
 				</section>
-
 				<section class="patient-reviews p-relative overflow-hidden m-0" data-plugin-lazyload data-plugin-options="{'threshold': 300, 'effect':'fadeIn'}" data-original="img/map.png">
 					<div class="container">
 						<div class="row">
@@ -207,7 +188,6 @@
 								<p class="text-uppercase p-0 m-0"></p>
 								<h3 class="font-weight-bolder text-color-quaternary mb-2 p-0 text-capitalize">CDC Review</h3>
 								<p class="p-0 m-0 font-weight-normal text-color-dark text-4">According to the CDC there is an estimate of 6 million to 12 million children between the ages of 3-11 that become infested with lice per year. These are huge numbers per year so when I decided to do this professionally I wanted to do something different from what is out on the market. I wanted a treatment that was natural, guaranteed to eradicate an infestation, and the whole family can rest assured that once I leave they can feel confident that they can get back to their lives and not be inconvenienced.  
-
 								With years in the making, I've come to the realization that none of the treatments on the market cannot guarantee full eradication without harmful chemicals, and damage to hair/scalp.</p>
 								<section class="section section-height-3 mt-0 mb-0 border-0 bg-color-light stage-margin">
 									
@@ -217,7 +197,6 @@
 						</div>
 					</div>
 				</section>
-
 				<section class="more-about" data-plugin-lazyload data-plugin-options="{'threshold': 300, 'effect':'fadeIn'}" data-original="img/map.png"> 
 					<div class="container">
 						<div class="row">
@@ -232,7 +211,6 @@
 						</div>
 					</div>
 				</section>
-
 				<section class="medical-services py-5 p-relative overflow-hidden" data-plugin-lazyload data-plugin-options="{'threshold': 300, 'effect':'fadeIn'}" data-original="img/demos/medical-2/bg/bg-3.png">
 					<div class="container">
 						<div class="row">
@@ -305,7 +283,6 @@
 							</div>
 						</div>
 					</div>
-
 					<div class="container">
 						<div class="row">
 							<div class="col text-center pb-lg-5 mb-lg-5">
@@ -315,19 +292,17 @@
 							</div>
 						</div>
 					</div>
-
 					<div class="section-funnel-layer-bottom">
 						<div class="section-funnel-layer bg-color-light"></div>
 						<div class="section-funnel-layer bg-color-light"></div>
 					</div>
 				</section>
 			</div>
-
 			<footer id="footer" class="m-0 bg-color-quaternary">
 				<div>
 					<div class="row py-5">
 						<div class="col-lg-12 text-center text-6 m-0 pb-4">
-						No Nits Lice Removal Services © 
+						NoNitsLiceRemovalServices © 
 						</div>
 					</div>
 				</div>
@@ -341,7 +316,6 @@
 				</div>
 			</footer> 
 		</div>
-
 		<!-- Vendor -->
 		<script src="vendor/jquery/jquery.min.js"></script>
 		<script src="vendor/jquery.appear/jquery.appear.min.js"></script>
@@ -359,44 +333,29 @@
 		<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
 		<script src="vendor/vide/jquery.vide.min.js"></script>
 		<script src="vendor/vivus/vivus.min.js"></script>
-
 		<!--(remove-empty-lines-end)-->
-
 		<!-- Theme Base, Components and Settings -->
 		<script src="js/theme.js"></script>
-
 		<!-- Current Page Vendor and Views -->
 		<script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
 		<script src="vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-
 		<!-- Current Page Vendor and Views -->
 		<script src="js/views/view.contact.js"></script>
-
 		<!-- Demo -->
 		<script src="js/demos/demo-medical-2.js"></script>
-
 		<!-- Theme Custom -->
 		<script src="js/custom.js"></script>
-
-
 		<!-- Theme Initialization Files -->
 		<script src="js/theme.init.js"></script>
-
-
-
-
 		<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information.
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
 			ga('create', 'UA-12345678-1', 'auto');
 			ga('send', 'pageview');
 		</script>
 		 -->
-
-
 	</body>
 </html>

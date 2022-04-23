@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
 
-		<title>NoNitsLiceRemovalLLC</title>	
+		<title>NoNitsLiceRemovalServices</title>	
 
 		<meta name="keywords" content="NoNitsLiceRemovalServices" />
 		<meta name="description" content="NoNits">
@@ -59,7 +59,7 @@
 
 		<div class="body">
 
-			<header id="header" class="header-effect-shrink" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyChangeLogo': true, 'stickyStartAt': 120, 'stickyHeaderContainerHeight': 70}">
+		<header id="header" class="header-effect-shrink" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyChangeLogo': true, 'stickyStartAt': 120, 'stickyHeaderContainerHeight': 70}">
 				<div class="header-body border-top-0">
 					<div class="header-top header-top-default header-top-borders border-bottom-0 bg-color-light">
 						<div class="container h-100">
@@ -72,7 +72,7 @@
 													<span class="header-top-phone py-2 d-flex align-items-center text-color-primary font-weight-semibold text-uppercase">
 														<i class="icon-phone icons text-5 mr-2"></i> <a href="tel:+1234567890">(305) 676-1940</a>
 													</span>
-													<span class="header-top-email px-0 font-weight-normal d-flex align-items-center"><i class="far fa-envelope text-4"></i>  <a class="text-color-default" href="mailto:mail@example.com">lashane1.wright@gmail.com</a></span>
+													<span class="header-top-email px-0 font-weight-normal d-flex align-items-center"><i class="far fa-envelope text-4"></i>  <a class="text-color-default" href="mailto:mail@example.com">nonitsliceremovalservices@gmail.com</a></span>
 													<span class="header-top-opening-hours px-0 font-weight-normal d-flex align-items-center"><i class="far fa-clock text-4"></i>Mon - Sat 9:00am - 6:00pm / Sunday - CLOSED</span>
 												</li>
 												<li class="nav-item nav-item-header-top-socials d-flex justify-content-between">
@@ -104,9 +104,9 @@
 						<div class="header-row">
 							<div class="header-column header-column-logo">
 								<div class="header-row">
-									<div class="header-logo text-7 text-color-dark">
+									<div class="header-logo font-weight-bold text-6 text-color-dark">
 										
-									No Nits Lice Removal Services ©
+									NoNitsLiceRemoval<br>Services© 
 										
 									</div>
 								</div>
@@ -118,12 +118,12 @@
 											<nav class="collapse">
 												<ul class="nav nav-pills" id="mainNav">
 													<li class="dropdown-secondary">
-														<a class="nav-link" href="home.php">
+														<a class="nav-link" href="index.php">
 															Home
 														</a>
 													</li>
 													<li class="dropdown-secondary">
-														<a class="nav-link" href="myths.php">
+														<a class="nav-link active" href="myths.php">
 															Myths & Facts
 														</a>
 													</li>													
@@ -155,7 +155,7 @@
 						
 			<div role="main" class="main shop pb-4">
 				<div class="container">
-					<h1 class="text-center">Pay Now</h1>
+					<h1 class="text-center font-weight-bold text-7">Pay Now</h1>
 					<div id="smart-button-container">
 						<div style="text-align: center;">
 							<div id="paypal-button-container"></div>
@@ -215,7 +215,7 @@
 					<div>
 						<div class="row py-5">
 							<div class="col-lg-12 text-center text-6 m-0 pb-4">
-							No Nits Lice Removal Services ©
+							NoNitsLiceRemovalServices ©
 							</div>
 						</div>
 					</div>

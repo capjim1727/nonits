@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
 
-		<title>No Nits Lice Removal Services</title>	
+		<title>NoNitsLiceRemovalServices</title>	
 
 		<meta name="keywords" content="NoNitsLiceRemovalServices" />
 		<meta name="description" content="NoNits">
@@ -104,9 +104,9 @@
 						<div class="header-row">
 							<div class="header-column header-column-logo">
 								<div class="header-row">
-									<div class="header-logo text-7 text-color-dark">
+									<div class="header-logo font-weight-bold text-6 text-color-dark">
 										
-									No Nits Lice Removal Services © 
+									NoNitsLiceRemoval<br>Services© 
 										
 									</div>
 								</div>
@@ -159,9 +159,11 @@
 						<div class="row">
 							<div class="col-lg-4">
 								<img src="img/think.jpg" alt="">
-								<p>
-									There is a common misconception about lice that people should immediately understand. I have highlighted the major ones here.
-									
+								<p class="lice text-4 text-color-dark font-weight-bold">
+									People are often scared and have many questions when it comes to lice. 
+									How did this happen? What do I do? How do I prevent this from happening again?
+									There is no need to worry. I have highlighted here some common asked questions when 
+									it comes to dealing with lice.	
 								</p>			
 							</div>
 							<div class="col-lg-8">
@@ -280,7 +282,7 @@
 					<div>
 						<div class="row py-5">
 							<div class="col-lg-12 text-center text-6 m-0 pb-4">
-							No Nits Lice Removal Services © 
+							NoNitsLiceRemovalServices © 
 							</div>
 						</div>
 					</div>

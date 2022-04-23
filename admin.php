@@ -67,13 +67,14 @@ if(!isset($_SESSION['password'])) {
 		<div class="body">
 
 		<header id="header" class="header-effect-shrink" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyChangeLogo': true, 'stickyStartAt': 120, 'stickyHeaderContainerHeight': 70}">
+				<div class="header-body border-top-0">
 					<div class="header-container container bg-color-light">
 						<div class="header-row">
 							<div class="header-column header-column-logo">
 								<div class="header-row">
-									<div class="header-logo text-7 text-color-dark">
+									<div class="header-logo text-6 font-weight-bold text-color-dark">
 										
-											NoNitsLiceRemovalLLC
+									NoNitsLiceRemovalServices© 
 										
 									</div>
 								</div>
@@ -148,7 +149,7 @@ if(!isset($_SESSION['password'])) {
 		<div>
 			<div class="row py-5">
 				<div class="col-lg-12 text-color-light text-center text-6 m-0 pb-4">
-					NoNitsLiceRemovalLLC
+					NoNitsLiceRemovalServices© 
 				</div>
 			</div>
 		</div>

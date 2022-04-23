@@ -37,7 +37,7 @@ if(isset($_POST['button'])){
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
 
-		<title>No Nits Lice Removal Services</title>	
+		<title>NoNitsLiceRemovalServices</title>	
 
 		<meta name="keywords" content="NoNitsLiceRemovalServices" />
 		<meta name="description" content="NoNits">
@@ -90,7 +90,7 @@ if(isset($_POST['button'])){
 
 		<div class="body">
 
-			<header id="header" class="header-effect-shrink" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyChangeLogo': true, 'stickyStartAt': 120, 'stickyHeaderContainerHeight': 70}">
+		<header id="header" class="header-effect-shrink" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyChangeLogo': true, 'stickyStartAt': 120, 'stickyHeaderContainerHeight': 70}">
 				<div class="header-body border-top-0">
 					<div class="header-top header-top-default header-top-borders border-bottom-0 bg-color-light">
 						<div class="container h-100">
@@ -135,9 +135,9 @@ if(isset($_POST['button'])){
 						<div class="header-row">
 							<div class="header-column header-column-logo">
 								<div class="header-row">
-									<div class="header-logo text-7 text-color-dark">
+									<div class="header-logo font-weight-bold text-6 text-color-dark">
 										
-									No Nits Lice Removal Services © 
+									NoNitsLiceRemoval<br>Services© 
 										
 									</div>
 								</div>
@@ -256,7 +256,7 @@ if(isset($_POST['button'])){
 					<div>
 						<div class="row py-5">
 							<div class="col-lg-12 text-center text-6 m-0 pb-4">
-							No Nits Lice Removal Services © 
+							NoNitsLiceRemovalServices © 
 							</div>
 						</div>
 					</div>
