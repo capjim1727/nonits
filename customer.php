@@ -101,7 +101,7 @@ if(isset($_POST['button'])){
 											<ul class="nav nav-pills justify-content-between w-100 h-100">
 												<li class="nav-item py-2 d-none d-xl-inline-flex">
 													<span class="header-top-phone py-2 d-flex align-items-center text-color-primary font-weight-semibold text-uppercase">
-														<i class="icon-phone icons text-5 mr-2"></i> <a href="tel:+1234567890">(305) 676-1940</a>
+														<i class="icon-phone icons text-5 mr-2"></i> <a href="tel:+1234567890">(772) 713-1940</a>
 													</span>
 													<span class="header-top-email px-0 font-weight-normal d-flex align-items-center"><i class="far fa-envelope text-4"></i>  <a class="text-color-default" href="mailto:mail@example.com">nonitsliceremovalservices@gmail.com</a></span>
 													<span class="header-top-opening-hours px-0 font-weight-normal d-flex align-items-center"><i class="far fa-clock text-4"></i>Mon - Sat 9:00am - 6:00pm / Sunday - CLOSED</span>
@@ -232,17 +232,17 @@ if(isset($_POST['button'])){
                                 <div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="800">
                                     <h4 class="mt-2 mb-1">Our <strong>Office</strong></h4>
                                     <ul class="list list-icons list-icons-style-2 mt-2">
-                                        <li><i class="fas fa-map-marker-alt top-6"></i> <strong class="text-dark">Address: 1196 19th Avenue Southwest, Vero Beach, FL 32962-5305</strong></li>
-                                        <li><i class="fas fa-phone top-6"></i> <strong class="text-dark">Phone: (305) 676-1940</strong></li>
+                                        <li><i class="fas fa-map-marker-alt top-6"></i> <strong class="text-dark">Serving the Treasure Coast area</strong></li>
+                                        <li><i class="fas fa-phone top-6"></i> <strong class="text-dark">Phone: (772) 713-1940</strong></li>
                                         <li><i class="fas fa-envelope top-6"></i> <strong class="text-dark">Email: <a href="mailto:mail@example.com">nonitsliceremovalservices@gmail.com</strong></a></li>
                                     </ul>
                                 </div>
                                 <div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="950">
                                     <h4 class="pt-5">Business <strong>Hours</strong></h4>
                                     <ul class="list list-icons list-dark mt-2">
-                                        <li><i class="far fa-clock top-6"></i><strong class="text-dark"> Monday - Friday - 9am to 5pm</strong></li>
-                                        <li><i class="far fa-clock top-6"></i><strong class="text-dark"> Saturday - 9am to 2pm</strong></li>
-                                        <li><i class="far fa-clock top-6"></i><strong class="text-dark"> Sunday - Closed</strong></li>
+                                        <li><i class="far fa-clock top-6"></i><strong class="text-dark"> Monday - Friday - 5pm - 10pm</strong></li>
+                                        <li><i class="far fa-clock top-6"></i><strong class="text-dark"> Saturday - 9am - 8pm</strong></li>
+                                        <li><i class="far fa-clock top-6"></i><strong class="text-dark"> Sunday - 9am - 5pm</strong></li>
                                     </ul>
                                 </div>
                                 <div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="1100">
